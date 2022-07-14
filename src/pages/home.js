@@ -5,8 +5,8 @@ export default function Home() {
     <div className="home-container">
       <div className="home-left">
         <div className="first-container">
-          <text className="transparent-word">fullstack</text>
-          <text className="transparent-word">Software Engineer</text>
+          {/* <text className="transparent-word">Software Engineer</text> */}
+          {/* <text className="transparent-word">Software Engineer</text> */}
         </div>
 
         <div className="second-container">
@@ -16,13 +16,13 @@ export default function Home() {
           <p>JUBERD</p>
         </div>
         <div className="fourth-container">
-          <text className="transparent-word">frontendbackend</text>
+          <text className="transparent-word">Software Engineer</text>
         </div>
       </div>
       <div className="home-right">
         <div className="button-to-projects">
-          <div>Projects</div>
-          <div>{">"}</div>
+          {/* <div>Projects</div>
+          <div>{">"}</div> */}
         </div>
       </div>
     </div>
